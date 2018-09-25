@@ -296,4 +296,8 @@ Much better. Notice that we used the `self` keyword inside the `#artist_name` me
 
 These are only a few of the ways in which you can extend, or build on, the foundational has many and belongs to associations.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-objects-has-many-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-objects-has-many-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Ruby Objects: The "Has Many" Relationship</p>
